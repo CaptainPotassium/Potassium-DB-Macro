@@ -44,7 +44,10 @@ These other macros are basically *quality-of-life* improvements to DiffusionBee.
 
 ## DiffusionBee Dreaming macro: 'dreaming' animation using DB's Img2Img tool
 
-You can use this macro to created undirected "dreaming" animations by repeated sending the output of Img2Img as the new input. You can get some really cool and trippy results, but it can take a while depending on how long you want your animation to be (and what you want its FPS to be). Here is an example I made using this tool:
+You can use this macro to created undirected "dreaming" animations by repeated sending the output of Img2Img as the new input. You can get some really cool and trippy results, but it can take a while depending on how long you want your animation to be (and what you want its FPS to be).  
+
+Here is an example I made using this tool:  
+https://user-images.githubusercontent.com/26673393/198810901-231ddc61-c46e-4ebb-ad25-878e0df9c839.mp4
 
 - This macro (as well as several of the other macros) uses on the pixel coordinates of the DiffusionBee window to click on the right buttons. [The DiffusionBee window must use exactly 50% of your main screen, and it must be on the right](https://u.cubeupload.com/CaptainPotassium/diffusionbeearrangem.png). Keyboard Maestro will resize the DB window automatically.
 - Currently, the macro relies locating buttons visually. 
