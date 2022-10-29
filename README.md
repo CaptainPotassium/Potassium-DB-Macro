@@ -1,5 +1,5 @@
 # Potassium's DiffusionBee Macros
-***[Macro and guide created by Potassium#0001](https://github.com/CaptainPotassium/Potassium-DB-Macro)***  
+***[Macro and guide created by Captain K. Potassium (Potassium#0001)](https://www.youtube.com/watch?v=OS2aLrcCvbI)***  
 
 ### Software Requirements
 - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases) (obviously lol)
