@@ -1,5 +1,5 @@
 # Potassium's DiffusionBee Macros
-**Created by Potassium#0001**    
+***Macro and guide created by Potassium#0001***  
 
 ### Software Requirements
 - [DiffusionBee (created by divamgupta)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases) (obviously lol)
@@ -44,10 +44,10 @@ These other macros are basically *quality-of-life* improvements to DiffusionBee.
 
 ## DiffusionBee Dreaming macro: 'dreaming' animation using DB's Img2Img tool
 
-For the **[DiffusionBee Dreaming macro](https://cdn.discordapp.com/attachments/949080378524704820/1034498820693839932/DiffusionBee_Dreaming.kmmacros)** to work properly, you must have the following programs installed on your Apple silicon Mac:
+You can use this macro to created undirected "dreaming" animations by repeated sending the output of Img2Img as the new input. You can get some really cool and trippy results, but it can take a while depending on how long you want your animation to be (and what you want its FPS to be). Here is an example I made using this tool:
 
-
-This macro uses on the pixel coordinates of the DiffusionBee window to click on the right buttons. [The DiffusionBee window must use exactly 50% of your main screen, and it must be on the right](https://u.cubeupload.com/CaptainPotassium/diffusionbeearrangem.png). Keyboard Maestro will resize the DB window automatically. Currently, the macro relies locating buttons visually. 
+- This macro (as well as several of the other macros) uses on the pixel coordinates of the DiffusionBee window to click on the right buttons. [The DiffusionBee window must use exactly 50% of your main screen, and it must be on the right](https://u.cubeupload.com/CaptainPotassium/diffusionbeearrangem.png). Keyboard Maestro will resize the DB window automatically.
+- Currently, the macro relies locating buttons visually. 
 
 1. **Open Keyboard Maestro**
 2. **Open DiffusionBee (and ensure that it remains your focused window)**
