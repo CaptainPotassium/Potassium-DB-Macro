@@ -18,18 +18,18 @@ These other macros are basically *quality-of-life* improvements to DiffusionBee.
 - **⌘5** : *Open the "History" tab*
 - **⌘Enter** : *Start "generating" a new image*
   - Rather than needing to click the button, now you can keep your hands on the keyboard!
-  - Works in "Text to Image", "Image to Image", "Inpainting", and "Outpainting"
-	- Press ⌘Enter again to stop it early
+  - Works in "Text to Image", "Image to Image", "Inpainting", and "Outpainting".
+	- Press ⌘Enter again to stop it early.
 - **⌘I** : *Open* `~/.diffusionbee` *in Finder*
   - This is where images created using DiffusionBee are stored by default.
-- **⌘L** : *Open the Logs.*
+- **⌘L** : *Open the Logs*
 - **⌘N** : *Import a new image*
-  - Works in "Image to Image", "Inpainting", and "Outpainting"
-- **⌘⇧R** : *Start the DiffusionBee Dreaming macro.*
+  - Works in "Image to Image", "Inpainting", and "Outpainting".
+- **⌘⇧R** : *Start the DiffusionBee Dreaming macro*
   - Only works in the "Image to Image" tab).
   - To stop the DiffusionBee Dreaming macro, hold down the R or ESC key as an image finshes generating. 
   - The macro will halt autmatically if DiffusionBee is not the focused window when the current generation ends.
-  - For more information about this macro, click [here](https://github.com/CaptainPotassium/Potassium-DB-Macro/new/main#diffusionbee-dreaming-dreaming-animation-using-dbs-img2img-tool)
+  - For more information about this macro, click [here](https://github.com/CaptainPotassium/Potassium-DB-Macro/new/main#diffusionbee-dreaming-dreaming-animation-using-dbs-img2img-tool).
 
 
 ## Installation / How to Update
