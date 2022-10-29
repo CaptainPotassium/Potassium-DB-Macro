@@ -1,8 +1,8 @@
 # Potassium's DiffusionBee Macros
-***Macro and guide created by Potassium#0001***  
+***[Macro and guide created by Potassium#0001](https://github.com/CaptainPotassium/Potassium-DB-Macro)***  
 
 ### Software Requirements
-- [DiffusionBee (created by divamgupta)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases) (obviously lol)
+- [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases) (obviously lol)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/)
 
 # Quality-of-Life Update (2022-10-28)
