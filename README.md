@@ -1,7 +1,5 @@
 # Potassium's DiffusionBee Macros
-**Created by Potassium#0001**  
-*Updated on 2022-10-28*  
-  
+**Created by Potassium#0001**    
 
 ### Software Requirements
 - [DiffusionBee (created by divamgupta)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases) (obviously lol)
@@ -18,17 +16,19 @@ These other macros are basically *quality-of-life* improvements to DiffusionBee.
 - **⌘3** : *Open the "Inpainting" tab*
 - **⌘4** : *Open the "Outpainting" tab*
 - **⌘5** : *Open the "History" tab*
-- **⌘Enter** : Start "generating" a new image
+- **⌘Enter** : *Start "generating" a new image*
   - Rather than needing to click the button, now you can keep your hands on the keyboard!
   - Works in "Text to Image", "Image to Image", "Inpainting", and "Outpainting"
 	- Press ⌘Enter again to stop it early
-- **⌘I** : *Open* `~/.diffusionbee`
+- **⌘I** : *Open* `~/.diffusionbee` *in Finder*
   - This is where images created using DiffusionBee are stored by default.
 - **⌘L** : *Open the Logs.*
-- **⌘N** : Import a new image
+- **⌘N** : *Import a new image*
   - Works in "Image to Image", "Inpainting", and "Outpainting"
-- **⌘⇧R** : Start the DiffusionBee Dreaming macro. (Only works in the "Image to Image" tab).
-  - To stop the DiffusionBee Dreaming macro, simply hold down the R or ESC key as an image finshes generating. The macro will also halt autmatically if DiffusionBee is not the focused window when the current generation ends.
+- **⌘⇧R** : *Start the DiffusionBee Dreaming macro.*
+  - Only works in the "Image to Image" tab).
+  - To stop the DiffusionBee Dreaming macro, hold down the R or ESC key as an image finshes generating. 
+  - The macro will halt autmatically if DiffusionBee is not the focused window when the current generation ends.
   - For more information about this macro, click [here](https://github.com/CaptainPotassium/Potassium-DB-Macro/new/main#diffusionbee-dreaming-dreaming-animation-using-dbs-img2img-tool)
 
 
@@ -66,7 +66,8 @@ This macro uses on the pixel coordinates of the DiffusionBee window to click on 
 ### Ok, now what?
 - Rather than downloading each image individually, open `~/.diffusionbee/images/` (⌘I). From there you can copy them to anywhere you want on your drive.
 - I recommend FFMEG to make a .MP4 or .MOV image from the images you've generated.
-	- installation: `brew install ffmpeg`
+	- Installation: `brew install ffmpeg`
+		- click [https://brew.sh/] to install brew if you do have it.
 	- To ensure that the process works properly, you should rename your images sequentially by the order they were created (they are not named sequentially by default). To easily do that: 
 	- open the folder that you copied your of images to in Finder and ensure that your images are sorted by creation date.
 	- select all your images and use the built-in Finder function to rename them all at once. 
@@ -76,3 +77,7 @@ This macro uses on the pixel coordinates of the DiffusionBee window to click on 
 		- This is assuming that your files are named "YourFilePrefix00001.png", "YourFilePrefix00002.png", etc.
 
 - If you want to make a .GIF and you have a lot of images (more than 50), use imagemagick. Keep in mind, the file size can get big quickly. If you only have a few images, [EZgif.com](https://ezgif.com/maker) works pretty well lol.
+
+---
+
+*Last updated on October 28, 2022*  
