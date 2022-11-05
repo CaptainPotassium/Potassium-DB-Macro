@@ -29,7 +29,7 @@ These other macros are basically *quality-of-life* improvements to DiffusionBee.
   - Only works in the "Image to Image" tab.
   - To stop the DiffusionBee Dreaming macro, hold down the R or ESC key as an image finshes generating. 
   - The macro will halt autmatically if DiffusionBee is not the focused window when the current generation ends.
-  - For more information about this macro, click [here](https://github.com/CaptainPotassium/Potassium-DB-Macro/new/main#diffusionbee-dreaming-dreaming-animation-using-dbs-img2img-tool).
+  - For more information about this macro, click [here](https://github.com/CaptainPotassium/Potassium-DB-Macro#steps-for-using-diffusionbee-dreaming).
 
 
 ## Installation / How to Update
